@@ -1,0 +1,187 @@
+== Kodcu.com Zeitgeist
+
+Kodcu.com bünyesinde gerçekleşen önemli webinerleri, eğitimleri ve yazıları sizler için derliyoruz.
+
+// == 2015
+
+// Loading ...
+
+== 2014
+
+=== Webinerler
+
+1.  http://kodcu.com/2014/11/jrebel-webineri/[JRebel Webineri]
+2.  http://kodcu.com/2014/09/domain-driven-design-webineri/[Domain Driven Design Webineri]
+3.  http://kodcu.com/2014/09/elasticsearch-aggregations-webinar/[Elasticsearch Aggregations Webinar]
+4.  http://kodcu.com/2014/09/e-book-hazirlama-ve-yayinlama-webineri/[E-book Hazırlama ve Yayınlama Webineri]
+5.  http://kodcu.com/2014/06/online-meetup-yazilimda-kalite-ve-ustalik/[Online Meetup: Yazılımda Kalite ve Ustalık]
+6.  http://kodcu.com/2014/06/spring-security-ve-apache-shiro-webineri/[Spring Security ve Apache Shiro Webineri]
+7.  http://kodcu.com/2014/06/behavior-driven-development-bdd-webineri/[Behavior-driven development (BDD) Webineri]
+8.  http://kodcu.com/2014/03/java-8-project-lambda-yenilikleri-webineri/[Java 8 (Project Lambda) Yenilikleri Webineri]
+9.  http://kodcu.com/2014/01/video-java-8-nashorn-ile-javascript-webineri/[(Video) Java 8 Nashorn ile Javascript Webineri]
+10.  http://kodcu.com/2014/03/java-exception-handling-best-practices-webineri-mart-ayinda-sizlerle/[Java Exception Handling Best Practices” webineri Mart ayında sizlerle]
+11.  http://kodcu.com/2014/03/mongodb-webinerine-herkesi-bekleriz/[MongoDB webinerine herkesi bekleriz]
+12.  http://kodcu.com/2014/01/agile-kanban-webineri/[Agile & Kanban Webineri]
+13.  http://kodcu.com/2014/01/kanban-webinerinin-3-4-5-bolumlerini-izleyebilirsiniz/[Kanban webinerinin 3 – 4 – 5 bölümlerini izleyebilirsiniz]
+14.  http://kodcu.com/2014/02/wildfly-8-webineri-arun-gupta-tarafindan-canli-anlatilacak/[WildFly 8 Webineri Arun Gupta tarafından canlı anlatılacak]
+15.  http://kodcu.com/2014/02/tizen-webineri-video/[Tizen Webineri (Video)]
+
+=== Kodcu.com’u Seçenler
+
+2014 yılında Kodcu.com’u seçen Aksigorta ve Türksat’a teşekkür ederiz.
+
+1.  http://kodcu.com/2014/11/aksigorta-java-se-8-egitimi-tamamlandi/[Aksigorta Java SE 8 Eğitimi Tamamlandı]
+2.  http://kodcu.com/2014/09/turksat-kodcu-comu-tercih-etti/[Türksat Kodcu.com’u Tercih Etti]
+3.  http://kodcu.com/2014/09/aksigorta-kodcu-comu-tercih-etti/[AkSigorta Kodcu.com’u Tercih etti]
+
+=== Eğitimler
+
+Kodcu.com alanında deneyimli hocalarla beraber 2014 yılında da eğitimlerine aralıksız devam etmiştir.
+
+1.  http://kodcu.com/2014/11/lean-kanban-introductory-training-istanbul-accredited-training-kodcu-com/[Lean Kanban Introductory Training, İstanbul (Accredited training)]
+*   Eğitmen: Altuğ Bilgin Altıntaş
+2.  http://kodcu.com/2014/09/javascript-egitimi-basliyor-ekim-2014/[JavaScript Eğitimi Başlıyor – Ekim 2014]
+
+        *   Eğitmen: Rahman Usta
+3.  http://kodcu.com/2014/09/online-javaee-7-ve-big-data-egitimi/[Online JavaEE 7 ve Big Data Eğitimi Yeniden Açılıyor]
+
+        *   Eğitmen: Hüseyin Akdoğan
+4.  http://kodcu.com/2014/05/agile-tahminleme-ve-planlama-egitimi-istanbul/[Agile tahminleme ve planlama eğitimi, İstanbul]
+
+        *   Eğitmen: Altuğ Bilgin Altıntaş
+5.  http://kodcu.com/2014/05/javascript-egitimi-haziran-ankara/[Javascript Eğitimi (Haziran) – Ankara]
+
+        *   Eğitmen: Rahman Usta
+6.  http://kodcu.com/2014/05/scrum-ile-gelecegi-gormek-atolye-calismasi-istanbul/[Scrum ile geleceği görmek – Atölye çalışması – İstanbul]
+
+        *   Eğitmen: Çağrı Kilit
+7.  http://kodcu.com/2014/04/javascript-egitimi/[JavaScript Eğitimi]
+
+        *   Eğitmen: Rahman Usta
+8.  http://kodcu.com/2014/04/lean-kanban-atolye-calismasi-istanbul-nisan-2014/[Lean Kanban Atölye Çalışması – İstanbul- Nisan 2014]
+
+        *   Eğitmen: Altuğ Bilgin Altıntaş
+9.  http://kodcu.com/2014/03/online-javaee-7-ve-big-data-egitimi-yeniden-basliyor/[Online JavaEE 7 ve Big Data Eğitimi yeniden başlıyor]
+
+        *   Eğitmenler: Hüseyin Akdoğan ve Rahman Usta
+10.  http://kodcu.com/2014/03/agile-kanban-atolye-calismasi-istanbul-mart-2014/[Agile & Kanban Atölye Çalışması – İstanbul – Mart-2014]
+
+        *   Eğitmen: Altuğ Bilgin Altıntaş
+11.  http://kodcu.com/2014/01/uluslararasi-sertifikali-agile-kanban-egitimi-07-08-subat-2013-istanbul-accredited-training/[Uluslararası Sertifikalı Agile & Kanban Eğitimi, 07-08 Şubat 2013, İstanbul (Accredited training)]
+
+        *   Eğitmen: Altuğ Bilgin Altıntaş
+12.  http://kodcu.com/2014/02/android-egitimi-4-4-kitkat/[Android Eğitimi (4.4 Kitkat)]
+
+        *   Eğitmen: Suhap Şahin
+13.  http://kodcu.com/2014/02/git-egitimi-22-subat-2013-istanbul/[Git Eğitimi]
+
+        *   Eğitmen: Lemi Orhan Ergin
+
+=== Java ve Java Bağlantılı Yazılar
+
+Java programlama dili ve onunla bağlantılı yazılar:
+
+1.  http://kodcu.com/2014/12/gradle-projelerinde-aspectj8-destegi/[Gradle Projelerinde AspectJ 8 Desteği]
+2.  http://kodcu.com/2014/12/java-microbenchmark-harness-ile-algoritmanizin-performansini-olcun/[Java MicroBenchmark Harness ile Algoritmanızın Performansını Ölçün]
+3.  http://kodcu.com/2014/11/aspectj-kitabi-yayinlandi/[AspectJ Kitabı Yayınlandı]
+4.  http://kodcu.com/2014/11/java-me-8-ile-raspberry-pi-uygulamasi-gelistirmek/[Java ME 8 ile Raspberry PI Uygulaması Geliştirmek]
+5.  http://kodcu.com/2014/11/java-8-completablefuture-ile-asenkron-programlama/[Java 8 – CompletableFuture ile Asenkron Programlama]
+6.  http://kodcu.com/2014/11/maven-projelerinde-aspectj-8-destegi/[Maven Projelerinde AspectJ 8 Desteği]
+7.  http://kodcu.com/2014/11/cok-buyuk-sayilarin-faktoryel-hesaplamasinda-isbirlikci-dagitik-mimari-modeli/[Çok Büyük Sayıların Faktöryel Hesaplamasında İşbirlikçi Dağıtık Mimari Modeli]
+8.  http://kodcu.com/2014/11/aspectj-aspect-yapisi/[AspectJ – Aspect Yapısı]
+9.  http://kodcu.com/2014/11/soap-web-service-security-soaphandler/[SOAP Web Service Security – SOAPHandler]
+10.  http://kodcu.com/2014/11/hadoop-nasil-kurulur-windows-icin/[Hadoop Nasıl Kurulur? (Windows için)]
+11.  http://kodcu.com/2014/10/aspectj-statik-crosscutting-ozellikler/[AspectJ – Statik Crosscutting Özellikler]
+12.  http://kodcu.com/2014/10/builder-pattern/[Builder Pattern ve Çok Parametre Alan Metotlar]
+13.  http://kodcu.com/2014/10/java-8-embedded-gomulu-cihazlarda-java-nasil-kullanilir/[Java 8 Embedded – Gömülü cihazlarda Java nasıl kullanılır?]
+14.  http://kodcu.com/2014/10/java-8-optional-yeniligi/[Java 8 Optional Yeniliği]
+15.  http://kodcu.com/2014/10/aspectj-advice-yapilari/[AspectJ – Advice Yapıları]
+16.  http://kodcu.com/2014/10/aspectj-ile-aop-pointcut-yapisi/[AspectJ – Pointcut Yapısı]
+17.  http://kodcu.com/2014/10/java-8-ebook/[Java 8 Ebook]
+18.  http://kodcu.com/2014/10/joox-java-ile-xml-islemenin-kolay-yolu/[JOOX – Java ile XML işlemenin kolay yolu]
+19.  http://kodcu.com/2014/10/aspectj-ile-aop-join-point-yapisi/[AspectJ – Join Point Yapısı]
+20.  http://kodcu.com/2014/10/java-8-ve-jvm-dilleri/[Java 8 ve JVM Dilleri]
+21.  http://kodcu.com/2014/10/java-8-stream-api/[Java 8 – Stream API]
+22.  http://kodcu.com/2014/10/java-8-default-methods/[Java 8 – Default Methods]
+23.  http://kodcu.com/2014/10/aspectj-ile-aop-prensipler-ve-aspectj-dili/[AspectJ – Prensipler ve AspectJ Dili]
+24.  http://kodcu.com/2014/09/java-8-method-reference/[Java 8 – Method Reference]
+25.  http://kodcu.com/2014/09/java-8-tekrarli-notasyonlar-nasil-kullanilir/[Java 8 – Tekrarlı Notasyonlar Nasıl Kullanılır?]
+26.  http://kodcu.com/2014/09/java-8-lambda-ornekleri/[Java 8 Lambda Örnekleri]
+27.  http://kodcu.com/2014/09/jcache-cacheloader-ve-cachewriter-kullanmak/[JCache – CacheLoader ve CacheWriter Kullanmak]
+28.  http://kodcu.com/2014/09/jsr-107-jcache-java-temporary-caching-api/[JSR 107 – JCache Standardına İlk Bakış]
+29.  http://kodcu.com/2014/09/loglama-ve-log4j/[Loglama ve Log4J?]
+30.  http://kodcu.com/2014/09/jpa-2-1-entity-graph/[JPA 2.1 Entity Graph]
+31.  http://kodcu.com/2014/09/java-ee-8-ile-yeni-mvc-framework-geliyor/[Java EE 8 ile yeni MVC Framework geliyor]
+32.  http://kodcu.com/2014/08/en-iyi-java-ee-7-blog-yazilari/[En iyi Java EE 7 Blog yazıları]
+33.  http://kodcu.com/2014/08/bir-java-virtual-machine-nasil-calisiyor-ingilizce/[Bir Java Virtual Machine nasıl çalışıyor? (İngilizce)]
+34.  http://kodcu.com/2014/08/java-9-yenilikleri-aciklandi-ingilizce/[Java 9 Yenilikleri Açıklandı (İngilizce)]
+35.  http://kodcu.com/2014/08/java-collection-api-ve-big-o-notasyonu/[Java Collection API ve Big O Notasyonu]
+36.  http://kodcu.com/2014/08/jvm-jit-ve-interpretation-performans-karsilastirmasi/[JVM: JIT ve Interpretation Modlarının Performans Karşılaştırması]
+37.  http://kodcu.com/2014/07/java-web-uygulamalarinda-prettyfaces-kullanimi/[Java Web Uygulamalarında Prettyfaces Kullanımı]
+38.  http://kodcu.com/2014/07/knockout-js-api-ile-spring-rest-entegrasyon/[Knockout JS API ile Spring REST Entegrasyonu]
+39.  http://kodcu.com/2014/07/xss-aciklarina-karsisanitize-islemi/[XSS açıklarına karşı Sanitize işlemi]
+40.  http://kodcu.com/2014/07/java-8-consumer-arayuzu/[Java 8 – Consumer Arayüzü]
+41.  http://kodcu.com/2014/04/jpa-2-1-type-converter/[JPA 2.1 Type Converter]
+42.  http://kodcu.com/2014/04/java-8de-tarih-ve-saat-islemleri/[Java 8’de Tarih ve Saat İşlemleri]
+43.  http://kodcu.com/2014/03/java-8-lambda-expressions-and-functional-interfaces/[Java 8 – Lambda İfadeleri ve Fonksiyonel Arayüzler]
+44.  http://kodcu.com/2014/03/java-8-lambda-expression-nedir-nasil-kullanirim/[Java 8 – Lambda Expression nedir? Nasıl kullanırım?]
+45.  http://kodcu.com/2014/02/e-fatura-schematron-dogrulamasi/[E-Fatura Schematron Doğrulaması]
+46.  http://kodcu.com/2014/02/jsr-341-expression-language-3/[JSR 341 – Expression Language 3]
+
+=== Diğer Yazılar
+
+Farklı alanlarda kaleme alınmış popüler yazılar[http://kodcu.com/2014/12/kodcu-com-zeitgeist-2014/#_footnote_1[1]]:
+
+1.  http://kodcu.com/2014/12/leaky-abstraction-nedir/[Leaky Abstraction Nedir?]
+2.  http://kodcu.com/2014/12/ben-sahibinden-comdan-berkay-aktan-iste-benim-calisma-stilim/[Sahibinden.com ve Berkay Aktan Hakkında Hersey]
+3.  http://kodcu.com/2014/12/universiteler-hangi-teknolojileri-tercih-ediyorlar/[Üniversiteler hangi teknolojileri tercih ediyorlar?]
+4.  http://kodcu.com/2014/12/kafe-toplantisi-sahibinden-comda-neler-oluyor/[Kafe Toplantısı Sahibinden.com’da neler oluyor?]
+5.  http://kodcu.com/2014/11/kabile-savaslari-ve-dusunce-gucu/[Kabile savaşları ve düşünce gücü]
+6.  http://kodcu.com/2014/11/turkiyede-telekomunikasyon-sirketlerinde-kullanilan-en-populer-teknolojiler-hangileri/[Türkiye’de telekomünikasyon şirketlerinde kullanılan en popüler teknolojiler hangileri?]
+7.  http://kodcu.com/2014/10/kodcu-com-programlama-dilleri-indeksi/[Türkiye’de En Fazla Tercih Edilen Programlama Dilleri Hangileri?]
+8.  http://kodcu.com/2014/09/daha-iyi-bir-javascript-uzmani-olabilmeniz-icin-6-oneri/[Daha iyi bir JavaScript uzmanı olabilmeniz için 6 öneri]
+9.  http://kodcu.com/2014/09/stackoverflow-com-dan-performans-dersleri/[Stackoverflow.com’dan performans dersleri]
+10.  http://kodcu.com/2014/09/neden-yazilimcilar-sql-den-korkar/[Neden yazılımcılar SQL’den korkar?]
+11.  http://kodcu.com/2014/09/bir-yazilimcinin-basina-gelebilecek-en-kotu-6-sey/[Bir yazılımcının başına gelebilecek en kötü 6 şey]
+12.  http://kodcu.com/2014/08/yaml-veri-degisim-formati-nedir/[YAML Nedir? Neden YAML Kullanmalıyız?]
+13.  http://kodcu.com/2014/08/hangi-programlama-dili-ne-kadar-kazandirir/[Hangi programlama dili ne kadar kazandırır?]
+14.  http://kodcu.com/2014/08/angular-js-backbone-js-veya-ember-js-hangisini-secmelisiniz/[Angular JS, Backbone.js, veya Ember.js , hangisini seçmelisiniz?]
+15.  http://kodcu.com/2014/08/emmet-zencoding-ile-hizli-kod-yazin/[Zencoding (Emmet) ile Hızlı kod yazın]
+16.  http://kodcu.com/2014/08/okunabilir-kod-ve-enum/[Daha Okunabilir Kod ve Yaşanabilir Dünya İçin Enum’lar]
+17.  http://kodcu.com/2014/07/maven-plugin-nasil-gelistirilir/[Maven Plugin Nasıl Geliştirilir?]
+18.  http://kodcu.com/2014/07/crate/[Süper ölçeklenebilir veri deposu: Crate]
+19.  http://kodcu.com/2014/07/takimlar-icin-yazilim-gelistirme-manifestosu/[Takımlar için Yazılım Geliştirme Manifestosu]
+20.  http://kodcu.com/2014/07/ubuntu-django-gunicorn-nginx-kurulumu/[Ubuntu 14.04 Django 1.7 + Gunicorn + Nginx Kurulumu]
+21.  http://kodcu.com/2014/06/hangi-surekli-entegrasyon-aracini-kullaniyorsunuz/[Hangi sürekli entegrasyon aracını kullanıyorsunuz?]
+22.  http://kodcu.com/2014/06/apache-spark-ile-naive-bayes-siniflandirma/[Apache Spark ile Naive Bayes Sınıflandırma]
+23.  http://kodcu.com/2014/06/30-muhtesem-javascript-kutuphanesi/[30 muhteşem javascript kütüphanesi]
+24.  http://kodcu.com/2014/06/net-ve-javascript-gelistiricileri-icin-test-araclari/[.NET ve javascript geliştiricileri için test araçları]
+25.  http://kodcu.com/2014/06/cok-istenilen-yazilim-gelistirme-becerileri/[Çok istenilen yazılım geliştirme becerileri]
+26.  http://kodcu.com/2014/06/node-js-mongodbye-giris/[Node.js ve MongoDB’ye Giriş]
+27.  http://kodcu.com/2014/06/elasticsearch-hacking/[ElasticSearch ve Hacking]
+28.  http://kodcu.com/2014/06/github-atom-editoru/[Github Atom Editörü]
+29.  http://kodcu.com/2014/06/lisansli-kurumsal-yazilimlarin-acik-kaynak-alternatifleri/[Lisanslı kurumsal yazılımların açık kaynak alternatifleri]
+30.  http://kodcu.com/2014/06/api-lerinizi-nasil-dokumante-edersiniz/[API lerinizi nasıl dökümante edersiniz ?]
+31.  http://kodcu.com/2014/05/naive-bayes-siniflandirma-algoritmasi/[Naïve Bayes Sınıflandırma Algoritması]
+32.  http://kodcu.com/2014/05/tubitak-bulut-bilisim-ve-buyuk-veri-yaz-okulu/[Tübitak Bulut Bilişim ve Büyük Veri Yaz Okulu]
+33.  http://kodcu.com/2014/05/bower-nedir-nasil-kullanilir/[Bower Nedir ? Nasıl Kullanılır ?]
+34.  http://kodcu.com/2014/05/risk-yonetimi-kanban-sistemi/[Risk yönetimi ve Kanban sistemi]
+35.  http://kodcu.com/2014/04/sen-sunu-yap-sende-bu-isi-yap/[Sen şunu yap, sende bu işi yap]
+36.  http://kodcu.com/2014/04/yazilim-gelistirme-adimlari-cynefin/[Yazılım geliştirme adımları ve Cynefin hakkında]
+37.  http://kodcu.com/2014/02/fluent-interface/[Fluent Interface ile daha okunabilir kodlar]
+38.  http://kodcu.com/2014/02/faydali-sql-sorgulari-ve-projeler/[Faydalı sql sorguları ve projeler]
+39.  http://kodcu.com/2014/02/google-chromea-eklenti-gelistirme/[Google Chrome’a Eklenti Geliştirme]
+40.  http://kodcu.com/2014/02/ui-elemanlari-uitableview-1/[UI Elemanlari – UITableView-1]
+41.  http://kodcu.com/2014/01/geleneksel-katmanli-mimari-uygulamalar/[Geleneksel katmanlı mimari uygulamalar]
+42.  http://kodcu.com/2014/01/quartz-enterprise-scheduler-net-email-notifikasyonu/Quartz[Enterprise Scheduler .NET (email notifikasyonu)]
+43.  http://kodcu.com/2014/01/ios-programlamaya-giris-2/[IOS Programlamaya Giriş-2]
+44.  http://kodcu.com/2014/01/ios-programlamaya-giris/[IOS Programlamaya Giriş]
+
+'''
+http://kodcu.com/2014/12/kodcu-com-zeitgeist-2014/#_footnoteref_1[1] 500 ve üzeri görüntülenmeye sahip yazıları temsil etmektedir.
+
+=== https://github.com/asciidocfx/AsciidocFX[AsciidocFX] Metin Editörü Hakkında
+
+1.  http://kodcu.com/2014/12/asciidoc-cheatsheet-hizli-baslangic/[Asciidoc Cheatsheet – Hızlı Başlangıç]
+2.  http://kodcu.com/2014/12/asciidocfx-metin-editoru/[AsciidocFx Metin Editörü]
+3.  http://kodcu.com/2014/10/writing-books-with-asciidoc-fx/[Writing Books with Asciidoc FX]
