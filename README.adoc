@@ -41,41 +41,30 @@ Kodcu.com alanında deneyimli hocalarla beraber 2014 yılında da eğitimlerine 
 1.  http://kodcu.com/2014/11/lean-kanban-introductory-training-istanbul-accredited-training-kodcu-com/[Lean Kanban Introductory Training, İstanbul (Accredited training)]
 *   Eğitmen: Altuğ Bilgin Altıntaş
 2.  http://kodcu.com/2014/09/javascript-egitimi-basliyor-ekim-2014/[JavaScript Eğitimi Başlıyor – Ekim 2014]
-
-        *   Eğitmen: Rahman Usta
+*   Eğitmen: Rahman Usta
 3.  http://kodcu.com/2014/09/online-javaee-7-ve-big-data-egitimi/[Online JavaEE 7 ve Big Data Eğitimi Yeniden Açılıyor]
-
-        *   Eğitmen: Hüseyin Akdoğan
+*   Eğitmen: Hüseyin Akdoğan
 4.  http://kodcu.com/2014/05/agile-tahminleme-ve-planlama-egitimi-istanbul/[Agile tahminleme ve planlama eğitimi, İstanbul]
-
-        *   Eğitmen: Altuğ Bilgin Altıntaş
+*   Eğitmen: Altuğ Bilgin Altıntaş
 5.  http://kodcu.com/2014/05/javascript-egitimi-haziran-ankara/[Javascript Eğitimi (Haziran) – Ankara]
-
-        *   Eğitmen: Rahman Usta
+*   Eğitmen: Rahman Usta
 6.  http://kodcu.com/2014/05/scrum-ile-gelecegi-gormek-atolye-calismasi-istanbul/[Scrum ile geleceği görmek – Atölye çalışması – İstanbul]
-
-        *   Eğitmen: Çağrı Kilit
+*   Eğitmen: Çağrı Kilit
 7.  http://kodcu.com/2014/04/javascript-egitimi/[JavaScript Eğitimi]
-
-        *   Eğitmen: Rahman Usta
+*   Eğitmen: Rahman Usta
 8.  http://kodcu.com/2014/04/lean-kanban-atolye-calismasi-istanbul-nisan-2014/[Lean Kanban Atölye Çalışması – İstanbul- Nisan 2014]
-
-        *   Eğitmen: Altuğ Bilgin Altıntaş
+*   Eğitmen: Altuğ Bilgin Altıntaş
 9.  http://kodcu.com/2014/03/online-javaee-7-ve-big-data-egitimi-yeniden-basliyor/[Online JavaEE 7 ve Big Data Eğitimi yeniden başlıyor]
-
-        *   Eğitmenler: Hüseyin Akdoğan ve Rahman Usta
+*   Eğitmenler: Hüseyin Akdoğan ve Rahman Usta
 10.  http://kodcu.com/2014/03/agile-kanban-atolye-calismasi-istanbul-mart-2014/[Agile & Kanban Atölye Çalışması – İstanbul – Mart-2014]
-
-        *   Eğitmen: Altuğ Bilgin Altıntaş
+*   Eğitmen: Altuğ Bilgin Altıntaş
 11.  http://kodcu.com/2014/01/uluslararasi-sertifikali-agile-kanban-egitimi-07-08-subat-2013-istanbul-accredited-training/[Uluslararası Sertifikalı Agile & Kanban Eğitimi, 07-08 Şubat 2013, İstanbul (Accredited training)]
-
-        *   Eğitmen: Altuğ Bilgin Altıntaş
+   
+*   Eğitmen: Altuğ Bilgin Altıntaş
 12.  http://kodcu.com/2014/02/android-egitimi-4-4-kitkat/[Android Eğitimi (4.4 Kitkat)]
-
-        *   Eğitmen: Suhap Şahin
+*   Eğitmen: Suhap Şahin
 13.  http://kodcu.com/2014/02/git-egitimi-22-subat-2013-istanbul/[Git Eğitimi]
-
-        *   Eğitmen: Lemi Orhan Ergin
+*   Eğitmen: Lemi Orhan Ergin
 
 === Java ve Java Bağlantılı Yazılar
 
