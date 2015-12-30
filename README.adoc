@@ -1,12 +1,139 @@
-== Kodcu.com Zeitgeist
+= Kodcu.com Zeitgeist
 
 Kodcu.com bünyesinde gerçekleşen önemli webinerleri, eğitimleri ve yazıları sizler için derliyoruz.
 
-// == 2015
+= 2015
 
-// Loading ...
+== Voxxed Days Istanbul 2015
 
-== 2014
+. https://www.youtube.com/playlist?list=PLbi72StPQe2xUwJL0GCuXQafg9v6gKT68[Voxxed Days Istanbul 2015 Oturumum Kayıtları]
+
+=== Voxxed Days Röportajları
+
+. http://kodcu.com/2015/06/arun-gupta-ile-roportaj-voxxed-days-istanbul-2015/[Arun Gupta ile Microservice, Wildfly 9 Hakkında]
+. http://kodcu.com/2015/07/redhatten-gavin-king-ile-roportaj/[RedHat’ten Gavin King ile Ceylon Programlama Dili Hakkında]
+. http://kodcu.com/2015/06/laurent-doguin-ile-couchbase-roportaji-voxxed-days-istanbul-2015/[Laurent Doguin ile Couchbase Hakkında]
+. http://kodcu.com/2015/07/christopher-batey-ile-cassandra-roportaji-voxxeddays-istanbul/[Christopher Batey ile Cassandra Hakkında]
+. http://kodcu.com/2015/06/elasticsearchten-david-pilato-ile-roportaj/[David Pilato ile Elasticsearch Hakkında]
+
+== Webinerler
+
+. http://kodcu.com/2015/12/docker-uygulama-sanallastirma-webineri-ardindan/[Docker ile Uygulama Sanallaştırma Webineri]
+. http://kodcu.com/2015/09/json-p-1-1-early-draft-webineri-ardindan/[JSON-P 1.1 Early Draft Webineri]
+. http://kodcu.com/2015/07/elasticsearch-shield-webineri-ardindan-video/[ElasticSearch Shield Webineri]
+. http://kodcu.com/2015/05/ucretsiz-spring-data-mongodb-webineri/[Spring Data MongoDB Webineri]
+. http://kodcu.com/2015/01/istanbul-jug-netflix-big-data-webineri-video/[Istanbul JUG – Big DATA Webineri]
+
+== Kamplar
+
+. http://kodcu.com/2015/12/mobil-yazilim-kodcu-kampi-basliyor/[Mobil Yazılım Kodcu Kampı Başlıyor]
+* Eğitmenler: Altuğ Bilgin Altıntaş, Furkan Avcu ve Suhap Şahin
+. http://kodcu.com/2015/09/camp-kodcu-yazilim-kampi-aciliyor/[Camp Kodcu Yazılım Kampı Açılıyor]
+* Eğitmenler:  Altuğ Bilgin Altıntaş, Rahman Usta, Suhap Şahin, Serhat Dirik (RedHat), Hüseyin Akdoğan ve Hakan Özler
+
+== Eğitimler
+
+. http://kodcu.com/2015/12/big-data-ve-cloud-egitimi/[Online Big Data ve Cloud Eğitimi]
+* Eğitmenler: Hüseyin Akdoğan & Hakan Özler
+. http://kodcu.com/2015/11/java-ee-7-with-design-patterns-egitimi-aralik-2015/[Java EE 7 with Design Patterns Eğitimi]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/09/spring-framework-ve-angularjs-egitimi/[Spring Framework ve AngularJS Eğitimi]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/09/ekim-ayi-online-java-ee-7-ve-big-data-egitimi-aciliyor/[Ekim ayı online JavaEE 7 ve Big Data Eğitimi]
+* Eğitmenler: Hüseyin Akdoğan & Hakan Özler
+. http://kodcu.com/2015/09/javascript-egitimi-ekim-2015/[JavaScript Eğitimi – Ekim 2015]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/09/herkes-icin-git-egitimi-ekim-2015/[Herkes için Git Eğitimi – Ekim 2015]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/08/online-elasticsearch-egitimi-eylul-2015/[Online Elasticsearch Eğitimi Eylül 2015]
+* Eğitmen: Hüseyin Akdoğan
+. http://kodcu.com/2015/07/yaz-donemi-online-javaee-7-ve-big-data-egitimi-basliyor/[Yaz dönemi online JavaEE 7 ve Big Data Eğitimi]
+* Eğitmen: Hüseyin Akdoğan
+. http://kodcu.com/2015/07/herkes-icin-git-egitimi/[Herkes için Git Eğitimi]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/07/javascript-egitimi-agustos-2015/[JavaScript Eğitimi – Ağustos 2015]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/04/online-elasticsearch-egitimi-basliyor/[Online ElasticSearch Eğitimi]
+* Eğitmen: Hüseyin Akdoğan
+. http://kodcu.com/2015/04/javaone-rock-stari-reza-rahmandan-ucretsiz-java-ee-7-egitimi/[Reza Rahman’dan Ücretsiz Java EE 7 Eğitimi]
+* Eğitmen: Reza Rahman
+. http://kodcu.com/2015/03/lean-kanban-atolye-calismasi-istanbul-nisan-2015/[Lean Kanban Atölye Çalışması – İstanbul- Nisan 2015]
+* Eğitmen: Altuğ Bilgin Altıntaş
+. http://kodcu.com/2015/03/java-ee-7-with-design-patterns-egitimi/[Java EE 7 with Design Patterns Eğitimi]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/02/mean-stack-javascript-egitimi/[MEAN Stack JavaScript Eğitimi]
+* Eğitmen: Rahman Usta
+. http://kodcu.com/2015/02/online-javaee-7-egitimi/[Online JavaEE 7 Eğitimi]
+* Eğitmen: Hüseyin Akdoğan
+. http://kodcu.com/2015/01/yenilenen-icerigiyle-online-javaee-7-big-data-egitimi-yeniden-basliyor/[Online JavaEE 7 ve Big Data Eğitimi]
+* Eğitmen: Hüseyin Akdoğan
+
+== Etkinlikler
+
+. http://kodcu.com/2015/11/global-day-of-coderetreat-etkinliginin-ardindan/[Global Day of Coderetreat : Yazılım ustalığınızı ve sabrınızı artırmak ister misiniz?]
+. http://kodcu.com/2015/09/kafe-toplantisi-cevik-organizasyonlarda-toc-uygulamasi-kapasite-planlamasi/[Kafe toplantısı : Çevik organizasyonlarda TOC uygulaması – Kapasite planlaması]
+. http://kodcu.com/2015/07/adoptajsr-ve-java-ee-8-ile-tanisma-toplantisi/[Adopt a JSR ve Java EE 8 ile Tanışma Toplantısı]
+. http://kodcu.com/2015/06/extreme-agility-devops/[Kafe toplantısı – Extreme Agility: DevOps]
+. http://kodcu.com/2015/05/etkinlik-yemeksepeti-com-ve-scrumin-perde-arkasi/[Yemeksepeti.com ve Scrum’ın perde arkası]
+. http://kodcu.com/2015/04/etkinlik-darbogazlarin-yonetiminde-yalin-yaklasimlar/[Darboğazların Yönetiminde Yalın Yaklaşımlar]
+. http://kodcu.com/2015/04/etkinlik-ttnet-sirketinin-kampanya-yonetim-surecinde-kanban-ve-cevik-yaklasimlar/[TTNET Şirketinin Kampanya Yönetim Sürecinde Kanban ve Çevik Yaklaşımlar]
+. http://kodcu.com/2015/03/kafe-toplantisi-insansiz-hava-araci-teknolojisinde-milli-elektronik-donanim-ve-yazilim-gelistirme-faaliyetleri/[Kafe Toplantısı – İnsansız Hava Aracı Teknolojisinde Milli Elektronik Donanım ve Yazılım Geliştirme Faaliyetleri]
+. http://kodcu.com/2015/03/kafe-toplantisi-mobilde-daha-iyiye-dogru-gundem-trendler-ve-urun-yonetimi/[Kafe Toplantısı – Mobilde daha iyiye doğru: gündem, trendler ve ürün yönetimi]
+. http://kodcu.com/2015/02/kafe-toplantisi-n11-com-7-ayda-nasil-yazildi/[Kafe Toplantısı – n11.com 7 ayda nasıl yazıldı?]
+. http://kodcu.com/2015/01/kafe-toplantisi-gittigidiyor-comda-calisma-hayati-ve-teknolojiler/[Kafe Toplantısı – GittiGidiyor.com’da Çalışma Hayatı ve Teknolojiler]
+
+== https://github.com/asciidocfx/AsciidocFX[AsciidocFX] Metin Editörü Hakkında
+
+. http://kodcu.com/2015/10/asciidocfx-projesi-dukes-choice-award-2015-odulunu-kazandi/[AsciidocFX projesi Duke’s Choice Award 2015 ödülünü kazandı]
+. http://kodcu.com/2015/07/asciidocfx-ile-reveal-js-ve-deck-js-slaytlari-hazirlamak-video/[AsciidocFX ile Reveal.js ve Deck.js Slaytları Hazırlamak (Video)]
+. http://kodcu.com/2015/04/create-beautiful-javafx-charts-with-asciidoc-fx/[Create Beautiful JavaFX Charts with AsciidocFX]
+
+== Java ve Java Bağlantılı Yazılar
+
+Java programlama dili ve onunla bağlantılı yazılar:
+
+. http://kodcu.com/2015/11/cdi-ile-jcache-notasyonlarini-kullanalim/[CDI ile JCache Notasyonlarını Kullanalım]
+. http://en.kodcu.com/2015/08/first-look-at-jsr-374-json-p-1-1-edr/[First Look at JSR 374, JSON-P 1.1 EDR]
+. http://kodcu.com/2015/05/spring-data-mongodb-ve-mongodb-java-driver-kullanarak-sorgular-olusturma/[Spring Data MongoDB ve MongoDB Java Driver Kullanarak Sorgular Oluşturma]
+. http://kodcu.com/2015/04/elasticsearch-java-api-ile-snapshot-ve-restore/[ElasticSearch Java API ile Snapshot ve Restore]
+. http://en.kodcu.com/2015/04/how-to-use-elasticsearch-snapshot-and-resrtore-module-with-java-api/[How to use ElasticSearch Snapshot and Resrtore module with Java API?]
+. http://kodcu.com/2015/02/first-look-at-jsr-371-mvc-1-0-spesification-and-ozark-ri/[First Look at JSR 371, MVC 1.0 Spesification and Ozark RI]
+. http://kodcu.com/2015/02/java-serviceloader-nedir-spi-service-provider-interface-nasil-yazilir/[Java ServiceLoader Nedir? SPI (Service Provider Interface) Nasıl Yazılır?]
+. http://kodcu.com/2015/01/java-8-longadder-vs-atomiclong/[Java 8 LongAdder vs AtomicLong]
+. http://kodcu.com/2015/01/antlr-kullanarak-kendi-programlama-dilinizi-olusturun/[ANTLR Kullanarak Kendi Programlama Dilinizi Oluşturun]
+
+== Diğer Yazılar
+
+Farklı alanlarda kaleme alınmış popüler yazılar[http://kodcu.com/2014/12/kodcu-com-zeitgeist-2014/#_footnote_1[1]]:
+
+. http://kodcu.com/2015/12/siyasette-24-saat-cok-uzun-zaman-peki-ya-yazilim-sektorunde-durum-nasil/[Siyasette 24 saat çok uzun zaman, peki ya Yazılım sektöründe durum nasıl ?]
+. http://kodcu.com/2015/12/ilk-camp-kodcu-comun-ardindan/[İlk Camp.Kodcu.com’un ardından]
+. http://kodcu.com/2015/11/crystal-programlama-diliyle-tanismaya-hazir-misiniz/[Crystal programlama diliyle tanışmaya hazır mısınız?]
+. http://kodcu.com/2015/08/yazilim-projelerinde-dikkat-edilmesi-gereken-5-risk-noktasi/[Yazılım projelerinde dikkat edilmesi gereken 5 risk noktası]
+. http://kodcu.com/2015/08/turkiyedeki-yerli-bulut-bilisim-girisimi/[Türkiye’deki Yerli Bulut Bilişim Girişimi]
+. http://kodcu.com/2015/07/cevik-agile-yontemler-sirketlerin-hastaligina-iyi-gelir-mi/[Çevik (Agile) yöntemler şirketlerin hastalığına iyi gelir mi?]
+. http://kodcu.com/2015/06/django-ile-web-uygulamasi-gelistirmek-1/[Django ile Web Uygulaması Geliştirmek – 1]
+. http://kodcu.com/2015/06/docker-nedir-neden-kullanilir/[Docker Nedir ? Neden Kullanılır?]
+. http://kodcu.com/2015/06/go-yeni-bir-baslangic/[Go: Yeni Bir Başlangıç]
+. http://kodcu.com/2015/05/slayt-hazirlarken-nelere-dikkat-etmeliyiz/[Slayt hazırlarken nelere dikkat etmeliyiz?]
+. http://kodcu.com/2015/05/ttnetden-fatih-tokus-ile-soylesi/[TTNET’den Fatih Tokuş ile söyleşi]
+. http://kodcu.com/2015/05/yemeksepetiden-mert-oztekin-ile-soylesi/[Yemeksepeti’den Mert Öztekin ile söyleşi]
+. http://kodcu.com/2015/04/mobil-gelistiricinin-galaksi-rehberi-kitabi-ve-make-manage-and-kill-sunumu/[Mobil Geliştiricinin Galaksi Rehberi kitabı ve Make, Manage and Kill sunumu]
+. http://kodcu.com/2015/04/django-web-frameworke-giris-2/[Django Web Framework’e Giriş]
+. http://kodcu.com/2015/03/pull-request-nedir-nasil-yapilir/[Pull Request Nedir? Nasıl Yapılır?]
+. http://kodcu.com/2015/03/yigit-darcin-ile-soylesi/[Yiğit Darçın ile söyleşi]
+. http://kodcu.com/2015/03/bootstrap-yerli-alternatifi-css-iskeletleriniz-icin-pinecss/[Bootstrap yerli alternatifi: CSS iskeletleriniz için PineCSS]
+. http://kodcu.com/2015/03/iot-internet-of-things-icin-realtime-server-nanonet/[IoT (Internet of Things) için Realtime Server – Nanonet]
+. http://kodcu.com/2015/03/cherry-pick-nedir-nasil-yapilir/[Cherry-pick Nedir? Nasıl Yapılır?]
+. http://kodcu.com/2015/03/haluk-bayraktar-ile-soylesi/[Haluk Bayraktar ile söyleşi]
+. http://kodcu.com/2015/01/nezih-yigitbasi-ile-netflix-ve-silikon-vadisi-soylesisi/[Nezih Yiğitbaşı ile Netflix ve Silikon Vadisi söyleşisi]
+. http://kodcu.com/2015/01/bootstrap-kitabi/[Bootstrap Kitap | Batuhan BAYIR]
+. http://kodcu.com/2015/01/uyelerimizin-git-hub-kullanim-istatistikleri/[Üyelerimizin GitHub kullanım istatistikleri]
+. http://kodcu.com/2015/01/singleton-tasarim-deseni/[Singleton Tasarım Deseni]
+. http://kodcu.com/2015/01/abstract-factory-tasarim-deseni/[Abstract Factory Tasarım Deseni]
+. http://kodcu.com/2015/01/mininet-ile-yazilim-tanimli-aglar-software-defined-networks/[Mininet ile Yazılım Tanımlı Ağlar (Software Defined Networks)]
+
+= 2014
 
 === Webinerler
 
@@ -166,11 +293,11 @@ Farklı alanlarda kaleme alınmış popüler yazılar[http://kodcu.com/2014/12/k
 43.  http://kodcu.com/2014/01/ios-programlamaya-giris-2/[IOS Programlamaya Giriş-2]
 44.  http://kodcu.com/2014/01/ios-programlamaya-giris/[IOS Programlamaya Giriş]
 
-'''
-http://kodcu.com/2014/12/kodcu-com-zeitgeist-2014/#_footnoteref_1[1] 500 ve üzeri görüntülenmeye sahip yazıları temsil etmektedir.
-
 === https://github.com/asciidocfx/AsciidocFX[AsciidocFX] Metin Editörü Hakkında
 
 1.  http://kodcu.com/2014/12/asciidoc-cheatsheet-hizli-baslangic/[Asciidoc Cheatsheet – Hızlı Başlangıç]
 2.  http://kodcu.com/2014/12/asciidocfx-metin-editoru/[AsciidocFx Metin Editörü]
 3.  http://kodcu.com/2014/10/writing-books-with-asciidoc-fx/[Writing Books with Asciidoc FX]
+
+'''
+http://kodcu.com/2014/12/kodcu-com-zeitgeist-2014/#_footnoteref_1[1] 500 ve üzeri görüntülenmeye sahip yazıları temsil etmektedir.
